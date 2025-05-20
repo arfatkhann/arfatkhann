@@ -1,3 +1,17 @@
+💫 Hi 👋, I'm Arfat Khan
+A passionate Python & AI Learner || Aspiring Data Scientist || Android Developer (Beginner) from Maharashtra, India 🇮🇳
+
+✉️ Email Me 👉 arfatkhan.dev@gmail.com for Collaboration, Projects, or Learning Together! 😊
+
+🔭 I’m currently working on: Learning Python and building small data science projects 📊
+🌱 I’m currently learning: Python, NumPy, Pandas, and Android App Development 📱
+👯 I’m looking to collaborate on: Beginner-level AI or Python projects 🤝
+🤔 I’m looking for help with: Data Science roadmap  ☁️
+💬 Ask me about: Python basics, learning strategies, and study motivation
+📫 How to reach me: LinkedIn DM or arfatkhan.dev@gmail.com
+😄 Pronouns: Arfat Bhai 😉
+⚡ Fun fact: I speak Urdu, love solving real-world problems, and dream of working in AI 🚀
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arfatkhan528) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arfat Khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Arfatkhan528) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arfatkhan6212@gmail.com) 
