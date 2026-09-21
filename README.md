@@ -1,7 +1,7 @@
 
 💫 Hi 👋, I'm Arfat Khan
 
-A passionate Python & AI Learner || Aspiring Data Scientist (Beginner) from Maharashtra, India 🇮🇳
+A passionate Python & AI Learner || Aspiring Data Scientist (Beginner) from Maharashtra, India
 
 ✉️ Email Me 👉 arfatkhan6212@gmail.com for Collaboration, Projects, or Learning Together! 😊
 
