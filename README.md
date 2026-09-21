@@ -3,7 +3,7 @@
 
 A passionate Python & AI Learner || Aspiring Data Scientist (Beginner) from Maharashtra, India 🇮🇳
 
-✉️ Email Me 👉 arfatkhan.dev@gmail.com for Collaboration, Projects, or Learning Together! 😊
+✉️ Email Me 👉 arfatkhan6212@gmail.com for Collaboration, Projects, or Learning Together! 😊
 
 🔭 I’m currently working on: Learning Python and building small data science projects 📊
 🌱 I’m currently learning: Python, NumPy, Pandas, and Android App Development 📱
