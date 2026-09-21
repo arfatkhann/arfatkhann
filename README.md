@@ -1,18 +1,11 @@
+👋 Hi, I'm Arfat Khan! I'm a Computer Science graduate who loves learning, building, and exploring new technologies. 💻
 
-💫 Hi 👋, I'm Arfat Khan
+🐍 I enjoy working with Python, SQL, HTML, CSS, and JavaScript, and I'm currently focusing on Data Analytics, AI/ML, and real-world projects. 📊🤖
 
-A passionate Python & AI Learner || Aspiring Data Scientist (Beginner) from Maharashtra, India
+🚀 I use Git and GitHub to build, manage, and showcase my projects. I believe in learning by doing, improving my skills step by step, and creating something useful along the way. 🌱
 
-✉️ Email Me 👉 arfatkhan6212@gmail.com for Collaboration, Projects, or Learning Together! 😊
+🔍 Always learning. Always building. Always improving!
 
-🔭 I’m currently working on: Learning Python and building small data science projects 📊
-🌱 I’m currently learning: Python, NumPy, Pandas, and Android App Development 📱
-👯 I’m looking to collaborate on: Beginner-level AI or Python projects 🤝
-🤔 I’m looking for help with: Data Science roadmap  ☁️
-💬 Ask me about: Python basics, learning strategies, and study motivation
-📫 How to reach me: LinkedIn DM or arfatkhan.dev@gmail.com
-😄 Pronouns: Arfat Bhai 😉
-⚡ Fun fact: I speak Urdu, love solving real-world problems, and dream of working in AI 🚀
 
 
 ## 🌐 Socials:
